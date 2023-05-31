@@ -1,0 +1,6 @@
+path: C:\Ara\TP\Brainhack\actual\od
+train: data/od/images/train
+val: data/od/images/valid
+
+names:
+  0: plushie
